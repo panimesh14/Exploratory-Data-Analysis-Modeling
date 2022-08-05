@@ -1,2 +1,4 @@
 # EDA_Projects
-Exploratory Data Analysis Projects 
+Exploratory Data Analysis  
+Conventional ML Algorithm Projects 
+
